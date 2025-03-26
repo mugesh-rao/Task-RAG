@@ -26,7 +26,6 @@ A FastAPI-based application that enables users to upload and query CSV files usi
 1. Clone the repository:
 ```bash
 git clone https://github.com/mugesh-rao/Task-RAG.git
-cd csv-rag-api
 ```
 
 2. Install required packages:
